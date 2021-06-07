@@ -1,1 +1,2 @@
 # calculations
+took user inputs
