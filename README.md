@@ -1,2 +1,2 @@
 # calculations
-added a new file for multiplication
+took user inputs for multiplication

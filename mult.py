@@ -1,3 +1,3 @@
-a=5
-b=6
-print(a*b)
+a=int(input("Enter a: "))
+b=int(input("Enter b: "))
+print("Result of multiplication= ",a*b)
